@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CloudyApplicationGoBrrrrrrr</string>
+    <string name="profile_page_button">PROFILE</string>
+    <string name="videos_page_button">VIDEOS</string>
+    <string name="diary_page_button">DIARY</string>
+    <string name="home_page_button">HOME</string>
+    <string name="full_app_name">Change Your Life</string>
+</resources>
